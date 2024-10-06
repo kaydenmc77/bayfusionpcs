@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+:root {
+    --main: #AB55D9;
+    --text: #FFFFFF;
+    --highlight: #D755D9;
+    --accent: #8055D9;
+    --background: #F3DCFB;  
+
+    font-family: Prompt;
+}
+
+#app {
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  justify-content: center;
+}
